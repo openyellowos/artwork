@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg1087"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1089"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.57370932"
+     inkscape:cx="396.54228"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="953"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1084" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1159"
+       transform="matrix(0.23168418,0,0,0.23168418,-63.319286,-30.281122)"
+       style="fill:#ffd700;fill-opacity:1">
+      <polygon
+         class="st1"
+         points="558.8,130.7 273.3,197.9 558.8,265.2 844.3,197.9 "
+         id="polygon1088"
+         style="fill:#ffd700;fill-opacity:1" />
+      <path
+         class="st1"
+         d="m 273.3,634.4 256.3,67.3 V 323 L 273.3,255.7 Z m 128.2,-256 c 37.7,0 68.2,44.9 68.2,100.2 0,55.3 -30.5,100.2 -68.2,100.2 -37.7,0 -68.2,-44.9 -68.2,-100.2 0,-55.3 30.5,-100.2 68.2,-100.2 z"
+         id="path1090"
+         style="fill:#ffd700;fill-opacity:1" />
+      <path
+         class="st1"
+         d="M 588,323 V 701.7 L 844.3,634.4 V 255.7 Z M 716.2,579 C 678.5,579 648,534.1 648,478.8 c 0,-55.3 30.5,-100.2 68.2,-100.2 37.7,0 68.2,44.9 68.2,100.2 0,55.3 -30.6,100.1 -68.2,100.2 z"
+         id="path1092"
+         style="fill:#ffd700;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
