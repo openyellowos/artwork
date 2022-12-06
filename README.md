@@ -1,8 +1,7 @@
 # artwork
 ### Copyright
 &copy; 2022 Takahide Kodashima  
-Released under GNU General Public License version 3
+Released under [GPL v3.0](LICENSE)
 
 ### Description
-Logo used by open.yellow.os.  
-open.Yellow.os で使用されるロゴです。
+The logos used with **open.yellow.os**.
